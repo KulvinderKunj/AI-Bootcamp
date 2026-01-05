@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Alice",
+    "Age": 25,
+    "City": "New York",
+    "Email": "alice@example.com"
+  },
+  {
+    "Name": "Bob",
+    "Age": 30,
+    "City": "Los Angeles",
+    "Email": "bob@example.com"
+  },
+  {
+    "Name": "Charlie",
+    "Age": 22,
+    "City": "Chicago",
+    "Email": "charlie@example.com"
+  },
+  {
+    "Name": "Diana",
+    "Age": 28,
+    "City": "Houston",
+    "Email": "diana@example.com"
+  },
+  {
+    "Name": "Ethan",
+    "Age": 35,
+    "City": "Phoenix",
+    "Email": "ethan@example.com"
+  },
+  {
+    "Name": "Fiona",
+    "Age": 27,
+    "City": "San Francisco",
+    "Email": "fiona@example.com"
+  },
+  {
+    "Name": "George",
+    "Age": 40,
+    "City": "Seattle",
+    "Email": "george@example.com"
+  },
+  {
+    "Name": "Hannah",
+    "Age": 32,
+    "City": "Boston",
+    "Email": "hannah@example.com"
+  },
+  {
+    "Name": "Ian",
+    "Age": 29,
+    "City": "Miami",
+    "Email": "ian@example.com"
+  },
+  {
+    "Name": "Julia",
+    "Age": 26,
+    "City": "Denver",
+    "Email": "julia@example.com"
+  }
+]

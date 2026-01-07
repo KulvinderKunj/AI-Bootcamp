@@ -1,6 +1,6 @@
 {
  "argv": [
-  "c:/Users/kalvi/Desktop/AI_Bootcamp/venv\\python.exe",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",
